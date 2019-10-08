@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+3eb390037c40f3049c5589252ab3f8e83dd0edf4 refs/remotes/origin/dockerfile
+abe78bd4f1df8fab8968ec43347f79a6b2d94386 refs/remotes/origin/larryk85-patch-1
+00ab7c85d6eec1b586f3eef3c92d02fb0ffb8646 refs/remotes/origin/larryk85-patch-2
+815a9de8dc62c8b20412f59dc500847b1ab5a677 refs/remotes/origin/master

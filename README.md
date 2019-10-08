@@ -53,5 +53,40 @@ List of available accounts with private key
 ]
 ```
 
+## dApp sample
+
+### eosio-web-ide
+
+Basically works like a simple message-broadcasting. User can login with private key and then can post message that will be stored on-chain. The posted messages are visible to everyone.
+The action of posting a message will invoke smart contract method.
+
+This dApp is from this open-source: https://github.com/EOSIO/eosio-web-ide
+
+Current modification made to the original code includes:
+  - Blockchain endpoint
+  - Account name used to deploy the `talk` contract
+
+There are several enhancement can be made. For example:
+
+  - auto-resolve the account name based on the input private key
+  - fix the "reply-to" function that still doesn't work
+  - make it configurable with blockchain endpoint
+
+#### Start
+
+```
+cd eosio-web-ide/webapp
+
+yarn
+
+npx webpack-dev-server
+```
+
+URL: http://localhost:8080
+
+#### Usage
+
+Enter the private key and the account name and then can post messages
+
 
 
