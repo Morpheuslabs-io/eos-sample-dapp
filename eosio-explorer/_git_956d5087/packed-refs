@@ -1,0 +1,26 @@
+# pack-refs with: peeled fully-peeled sorted 
+0a3a333ddc905828074f8a736eadd352ef947b2b refs/remotes/origin/develop
+08bcaafb1aca7d4833f3bec9f325eea01ac9e13c refs/remotes/origin/doc-v1.0
+db711f36c5ea236f65c89fb52c638840f8b80fc0 refs/remotes/origin/integrate-ship
+956d5087e88277da756504f6d1b30a8125533e0d refs/remotes/origin/master
+aa331d15d43387b525f620be734e813d95b9bd73 refs/tags/0.3.0-alpha.2
+7560c3165ff3fddefc0a3a04cd2ad5df34a28d1c refs/tags/0.3.0-beta
+17c1c9b41b63772a86ac29cb664b5942d089a096 refs/tags/0.3.0-beta.0
+6a9f72e62f2ea67d0bbfa13d3fdeeb6b66517a46 refs/tags/eosio-explorer@0.2.1
+6a9f72e62f2ea67d0bbfa13d3fdeeb6b66517a46 refs/tags/v0.2.1
+7159830117f384adedfbf4984f3d849fc24368e0 refs/tags/v0.2.2
+ed5b170ebb896e54c0faceaa94a42a1dd676c617 refs/tags/v0.3.0
+434789cd0d3ebb2bf039635ba04a99365ec6f573 refs/tags/v0.3.0-alpha
+0628f409a6df8221d0597b873dc817a440adaad5 refs/tags/v0.3.0-alpha.0
+6aa03d16c7ca7340bb79c3cc73f23fbd53ceefb9 refs/tags/v0.3.0-alpha.1
+aa331d15d43387b525f620be734e813d95b9bd73 refs/tags/v0.3.0-alpha.2
+7560c3165ff3fddefc0a3a04cd2ad5df34a28d1c refs/tags/v0.3.0-beta
+17c1c9b41b63772a86ac29cb664b5942d089a096 refs/tags/v0.3.0-beta.0
+e6f7ba42a5a0d367b26bdc7b4ac376cd60be2477 refs/tags/v0.3.1
+c2a815b5bd60c2610be6ca07b16c445a949603da refs/tags/v0.3.1-alpha.0
+da3dbdc1f591a4d38896123770b1949982a71a3c refs/tags/v0.3.2
+8eebab9d6c80a6fd975734755c281f531288ab6e refs/tags/v0.3.3
+e39263bbe79de117d70c66eb1eec1740a91303fc refs/tags/v0.3.4
+58455d0b4cd17876c7207fdd32496b5f68a231ac refs/tags/v0.3.5
+2b903c440e2f4ff343a571b3b016baeefb625898 refs/tags/v0.3.6
+0b5257782879c92ee37915bd91ffe8bf4107fd72 refs/tags/v0.3.8

@@ -1,0 +1,1 @@
+./eosio-explorer/cli.sh start_gui -dev --clear-browser-storage --no-compiler-docker node=http://localhost:8888 db=mongodb://eosio_mongodb:27788/eosio_nodeos_mongodb_plugin
